@@ -38,7 +38,6 @@ RTCMultiConnection-v2 (old) videos: https://vimeo.com/muazkh
 7. [Tips & Tricks](https://github.com/muaz-khan/RTCMultiConnection/blob/master/docs/tips-tricks.md)
 
 # iOS+Android Demo Apps
-
 * http://webrtcweb.com/cordova-apps/
 
 # v3 Demos
@@ -47,7 +46,7 @@ RTCMultiConnection-v2 (old) videos: https://vimeo.com/muazkh
 | ------------- |-------------|-------------|
 | Audio+Video+File+TextChat | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Audio+Video+TextChat+FileSharing.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Audio+Video+TextChat+FileSharing.html) |
 | Pre-recorded media streaming (webm/mp3 live streaming) | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Pre-recorded-Media-Streaming.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Pre-recorded-Media-Streaming.html) |
-| FileSharing | [Demo](https://rtcmulticonnection.herokuapp.com/demos/file-sharing.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/file-sharing.html) |
+| FileSharing | [Demo](https://rtcmulticonnection.herokuapp.com/demos/file-sharing.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/file-sharing.html)
 | Scalable Audio/Video Broadcast | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Scalable-Broadcast.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Scalable-Broadcast.html) |
 | Scalable Screen Broadcast | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Scalable-Screen-Broadcast.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Scalable-Screen-Broadcast.html) |
 | Scalable Video Broadcast | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Video-Scalable-Broadcast.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Video-Scalable-Broadcast.html) |
@@ -57,7 +56,7 @@ RTCMultiConnection-v2 (old) videos: https://vimeo.com/muazkh
 | Audio+Video+Screen Sharing | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Audio-Video-Screen.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Audio-Video-Screen.html) |
 | One-to-One Video Chat | [Demo](https://rtcmulticonnection.herokuapp.com/demos/One-to-One.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/One-to-One.html) |
 | Audio Conferencing | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Audio-Conferencing.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Audio-Conferencing.html) |
-| Video Broadcasting | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Video-Broadcasting.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Video-Broadcasting.html) |
+| Video Broadcasting | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Video-Broadcasting.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Video-Broadcasting.html) 
 | TextChat+FileSharing | [Demo](https://rtcmulticonnection.herokuapp.com/demos/TextChat+FileSharing.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/TextChat+FileSharing.html) |
 | addStream in a Chat room | [Demo](https://rtcmulticonnection.herokuapp.com/demos/addStream-in-Chat-room.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/addStream-in-Chat-room.html) |
 | Part-of-Screen Sharing | [Demo](https://rtcmulticonnection.herokuapp.com/demos/share-part-of-screen.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/share-part-of-screen.html) |
@@ -66,7 +65,7 @@ RTCMultiConnection-v2 (old) videos: https://vimeo.com/muazkh
 | Disconnect/Rejoin rooms | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Disconnect+Rejoin.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Disconnect+Rejoin.html) |
 | Password Protected Rooms | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Password-Protected-Rooms.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Password-Protected-Rooms.html) |
 | replaceTrack in Firefox | [Demo](https://rtcmulticonnection.herokuapp.com/demos/replaceTrack.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/replaceTrack.html) |
-| applyConstraints in Firefox | [Demo](https://rtcmulticonnection.herokuapp.com/demos/applyConstraints.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/applyConstraints.html) |
+| applyConstraints in Firefox | [Demo](https://rtcmulticonnection.herokuapp.com/demos/applyConstraints.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/applyConstraints.html) 
 | Firebase-Demo | [Demo](https://rtcmulticonnection.herokuapp.com/demos/Firebase-Demo.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/Firebase-Demo.html) |
 | PubNub Demo | [Demo](https://rtcmulticonnection.herokuapp.com/demos/PubNub-Demo.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/PubNub-Demo.html) |
 | Socket.io Custom-Messaging | [Demo](https://rtcmulticonnection.herokuapp.com/demos/custom-socket-event.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/demos/custom-socket-event.html) |
@@ -84,7 +83,7 @@ RTCMultiConnection-v2 (old) videos: https://vimeo.com/muazkh
 | Experiment Name        | Demo           | Source Code |
 | ------------- |-------------|-------------|
 | AppRTC like RTCMultiConnection demo! | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/AppRTC-Look.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/AppRTC-Look.html) |
-| MultiRTC! RTCMultiConnection all-in-one demo! | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/MultiRTC/) | [Source](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/MultiRTC-simple) |
+| MultiRTC! RTCMultiConnection all-in-one demo! | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/MultiRTC/) | [Source](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/MultiRTC-simple) 
 | Collaborative Canvas Designer | [Demo](https://www.webrtc-experiment.com/Canvas-Designer/) | [Source](https://github.com/muaz-khan/Canvas-Designer) |
 | Conversation.js - Skype like library | [Demo](https://www.webrtc-experiment.com/Conversationjs/) | [Source](https://github.com/muaz-khan/Conversation.js) |
 | All-in-One test | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/all-in-one.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/all-in-one.html) |
@@ -93,7 +92,7 @@ RTCMultiConnection-v2 (old) videos: https://vimeo.com/muazkh
 | OneWay Screen & Two-Way Audio | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/OneWay-Screen-TwoWay-Audio.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/OneWay-Screen-TwoWay-Audio.html) |
 | Stream Mp3 Live | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/stream-mp3-live.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/stream-mp3-live.html) |
 | Socket.io auto Open/Join rooms | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/socketio-auto-open-join-room.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/socketio-auto-open-join-room.html) |
-| Screen Sharing & Cropping | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/cropped-screen-sharing.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/cropped-screen-sharing.html) |
+| Screen Sharing & Cropping | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/cropped-screen-sharing.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/cropped-screen-sharing.html) 
 | Share Part of Screen without cropping it | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/RTCMultiConnection.sharePartOfScreen.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/RTCMultiConnection.sharePartOfScreen.html) |
 | getMediaDevices/enumerateDevices | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/getMediaDevices.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/getMediaDevices.html) |
 | Renegotiation & Mute/UnMute/Stop | [Demo](https://www.webrtc-experiment.com/RTCMultiConnection/Renegotiation.html) | [Source](https://github.com/muaz-khan/RTCMultiConnection/tree/master/v2.2.2/demos/Renegotiation.html) |
