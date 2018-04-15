@@ -25,7 +25,9 @@
 
     <br><br>
     <input type="text" id="input-text-chat" placeholder="Enter Text Chat" disabled>
+    	
     <button id="share-file" disabled>Share File</button>
+   <button id="mutemic" disabled>block</button> 
     <br><br>
     <button id="btn-leave-room" disabled>Leave /or close the room</button>
 
@@ -97,6 +99,10 @@ document.getElementById('share-file').onclick = function() {
     fileSelector.selectSingleFile(function(file) {
         connection.send(file);
     });
+};
+
+document.getElementById('mutemic').onclick = function() {
+    video.muted = true;
 };
 
 document.getElementById('input-text-chat').onkeyup = function(e) {
@@ -191,6 +197,7 @@ connection.filesContainer = document.getElementById('file-container');
 
 connection.onopen = function() {
     document.getElementById('share-file').disabled = false;
+    document.getElementById('mutemic').disabled = false;
     document.getElementById('input-text-chat').disabled = false;
     document.getElementById('btn-leave-room').disabled = false;
 
